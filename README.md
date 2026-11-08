@@ -6,11 +6,11 @@
 
 ## Download
 
-**Download from [Releases](../../releases)** when the v1.0-rc1 release appears.
+**[Download KG2L Universal R50 Connector v1.0 RC1 (ZIP)](https://github.com/chrisk8635/R50-Universal-Downloads/releases/download/v1.0-rc1/KG2L-R50-Universal-v1.0-RC1.zip)**
 
-Under **Assets**, choose **KG2L-R50-Universal-v1.0-RC1.zip**. Do **not** choose GitHub's automatically generated "Source code (zip)" archive. That is not the application.
+You can also visit the [v1.0 RC1 release page](https://github.com/chrisk8635/R50-Universal-Downloads/releases/tag/v1.0-rc1) and select **KG2L-R50-Universal-v1.0-RC1.zip** under **Assets**.
 
-**Release status: The binary release upload is pending.** The public README is available now, but the downloadable ZIP must still be attached to a release.
+**Do not download GitHub's automatically generated "Source code (zip)" archive.** That is not the application. This is a free, experimental **pre-release**.
 
 The release ZIP contains **R50_Universal_Connector.exe**, **R50_Universal_Engine.exe**, **README.txt**, and **SHA256.txt**.
 
